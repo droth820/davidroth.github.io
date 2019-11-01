@@ -1,0 +1,49 @@
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Meme Generator</title>
+		<link rel="stylesheet" href="css/memeStyle.css">
+		<link href='http://fonts.googleapis.com/css?family=Lato:300,400,900' rel='stylesheet' type='text/css'>
+		<style type="text/css">
+			#image-container{
+				display:flex;
+			}
+		</style>
+	</head>
+	<body>
+		<div><h1>Meme Generator</h1></div>
+
+		<div>
+			<input type="file" id="file" />
+			</div>
+			<div class="textWrap">
+				<div id="image-container">
+		<canvas id="c" width="500" height="467"></canvas>
+		<div>
+			<form class="forms">
+				<label>Top Line:</label><br/>
+				<input id="topLineText" type="text" placeholder="Enter Text"><br/>
+				<label>Bottom Line:</label><br/>
+				<input id="bottomLineText" type="text" placeholder="Enter Text"><br/>
+				<button id="saveBtn">Save</button>
+			</form>
+			
+		</div>
+	</div>
+			</div>
+		
+
+	<section>
+		<article><p>Select an image file from your computer and create your own Meme.</p><p>To save your Meme, right-click on the image and save to a location on your computer.</p>
+			<h3>Enjoy!</h3></article>
+	</section>
+		
+	<script src="js/app.js"></script>
+
+	</body>
+
+</html>
+
+		

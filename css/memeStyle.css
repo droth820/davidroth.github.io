@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/*CSS document for MemeGenerator.html*/
+
+body{
+	background-color: #CCCCCC;
+	font-family: 'Lato', sans-serif;
+}
+
+#c{
+	background-color: #CCCCFF;
+	border-style: solid;
+	border-color: #000000;
+	word-wrap: break-word;
+}
+
+#topLineText{
+	text-align: left;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: auto;
+	margin-right: auto;
+
+	
+}
+
+#bottomLineText{
+	word-wrap: break-word;
+}
+#file{
+	background-color: #7EC0EE;
+}
+
+.forms{
+	background-color: #FFCC33;
+}
+
+#image-container{
+	display:flex;
+}
+
+#textWrap{
+	text-align: center;
+	width: 90%;
+}
+

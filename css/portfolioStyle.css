@@ -1,0 +1,123 @@
+@charset 'UTF-8';
+/* CSS Document */
+/*CSS to complement Bootstrap CSS*/
+
+body{
+	/*font-family: 'Titillium Web', sans-serif;*/
+
+	background-color: #FFFFFF;
+	color: #D0C4AB;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+}
+
+/*----------------------------------------------------------------------*/
+/*Styles to display previous projects in Featured Work sectioni*/
+
+.featuredWork{
+	background-color: #000000;
+}
+
+.image-background{
+	background-color: #FFF;
+}
+
+/*----------------------------------------------------------------------*/
+/*Marquee section and image*/
+
+.intro{	
+	background-color: #000000;
+	color: #3399CC;
+	font-size: 40px;
+	width: 100%;	
+}
+
+.project-image{
+	height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 400px;
+	max-height: 182px;
+	width: 100%;
+}
+
+.title-logo{
+	border-radius: 10px;
+	border: 1px  solid black;
+	max-width: 50px;
+}
+
+/*----------------------------------------------------------------------*/
+/*Style for horizontal rule*/
+
+.rule{
+	background-color: #D0c4AB;
+	border-top: hidden;
+	height: 6px;
+	width: auto;
+}
+
+/*----------------------------------------------------------------------*/
+/*Styles for title text*/
+
+.super-title{
+	color: #131A2D;
+	font-size: 60px;
+	font-weight: 700;
+}
+
+.text-large{
+	font-size: 40px;
+}
+
+.title-logo{
+	margin-top: 20px;
+	
+}
+
+.text-muted{
+	color: #D0C4AB;
+	padding-left: 5px;
+}
+
+.text-thin{
+	font-weight: 100;
+	padding-left: 5px;
+}
+/*---------------------------------------------------------------------*/
+/*Modal*/
+.modal-body{
+	background-color: #cccccc;
+	color: #000000;
+	font-weight: bold;
+}
+
+.modal-header .modal-footer{
+	background: #e5e5e5;
+}
+	
+.modal-title{
+	color: #000000;
+	font-weight: bold;
+}
+
+.btn{
+	color: #000000;
+}
+
+.glow {
+  color: #ffffff;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+ @-webkit-keyframes glow {
+ from {
+ text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #d400b8, 0 0 40px #d400b8, 0 0 50px #d400b8, 0 0 60px #d400b8, 0 0 70px #d400b8;
+}
+ to {
+ text-shadow: 0 0 20px #fff, 0 0 30px #6619f2, 0 0 40px #6619f2, 0 0 50px #6619f2, 0 0 60px #6619f2, 0 0 70px #6619f2, 0 0 80px #6619f2;
+}
+}
+
+

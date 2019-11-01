@@ -1,0 +1,1 @@
+This repository contains my portfolio that I created while completing Udacity's frontend website developer nanodegree.

@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns10111001101" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns10111001101" font="Articulate" controllayout="npnxnanbsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001101" font="Articulate" controllayout="pxabnsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npxnabnsnfns10111001101" font="Articulate" controllayout="npxnabnsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns10111001101" font="Articulate" controllayout="npnxnanbnsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="pxabnsnfns10111001100" font="Articulate" controllayout="pxabnsnfns10111001100" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns00001001101" font="Articulate" controllayout="npnxnanbnsnfns00001001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns00000001101" font="Articulate" controllayout="npnxnanbnsnfns00000001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npnxnanbnsnfns10111000101" font="Articulate" controllayout="npnxnanbnsnfns10111000101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npxnanbnsnfns10111000101" font="Articulate" controllayout="npxnanbnsnfns10111000101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="npxnanbnsnfns10111001101" font="Articulate" controllayout="npxnanbnsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="pxnanbnsnfns10111001101" font="Articulate" controllayout="pxnanbnsnfns10111001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+    <layout name="pxnanbnsnfns00001001101" font="Articulate" controllayout="pxnanbnsnfns00001001101" colorscheme="npnxnanbnsnfns10111001101" string_table="npnxnanbnsnfns10111001101" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Management Reporting Getting Started: Linking" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Help" />
+                  <property name="data" value="6eWVZsrRKlE" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Wdesk Layout" />
+                  <property name="data" value="6VIjESDu0mE" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Exit" />
+                  <property name="data" value="6g015YirvRV" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+            </options>
+          </option>
+          <option name="search" value="false" />
+          <option name="replay" value="true" />
+          <option name="pauseplay" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns10111001100">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00000001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="false">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns10111000101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnanbnsnfns10111000101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbnsnfns10111001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbnsnfns00001001101">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="false" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbnsnfns10111001101">
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbnsnfns10111001101">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to Menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Table of Contents</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Transcript</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.66Q3CUYUWJY" displaytext="Objectives" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.66Q3CUYUWJY.6PCv5QcuSbE" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.66Q3CUYUWJY.6qKQziQzsrU" displaytext="Objectives" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6U9paRDJQxa" displaytext="Linking to a Document" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6U9paRDJQxa.5eYXEC6abPw" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6U9paRDJQxa.61CDPqRehBd" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.6U9paRDJQxa.67Do3JXHXZD" displaytext="Activity Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6U9paRDJQxa.6WJ0PL1anDp" displaytext="Linking to a Document Activity" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5v9bfRJZJQt" displaytext="Linking to a Presentation" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5v9bfRJZJQt.6XhvKYp6OVk" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5v9bfRJZJQt.6RKsqUaspVl" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5v9bfRJZJQt.5YjoDeb0chV" displaytext="Linking to a Presentation Activity" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6plD3ISKBDv" displaytext="In-Text Linking" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6plD3ISKBDv.6K7KbsPoKUc" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6plD3ISKBDv.5wYLQut3ZnJ" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.6plD3ISKBDv.5YGmxy2sdsY" displaytext="Activity Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6plD3ISKBDv.5liHuQj8lgR" displaytext="In-Text Linking Activity" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5sebNQFrKtT" displaytext="Formatting In-Text Links" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5sebNQFrKtT.6YUSquJBpIs" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5sebNQFrKtT.5dCBGkQx7Dl" displaytext="Overview" expand="false" type="slide" />
+            <slidelink slideid="_player.5sebNQFrKtT.6eoKC9tPRyf" displaytext="Activity Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.5sebNQFrKtT.5eYeFPh9up6" displaytext="Formatting In-Text Links Activity" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ZvkMuHhNgA" displaytext="Conclusion" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ZvkMuHhNgA.68MbIUNzFXi" displaytext="Conclusion" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="66Q3CUYUWJY.6PCv5QcuSbE" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Wdesk allows users to link text and numeric values across documents.&lt;br&gt;&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;There are two links that you can create in Wdesk: Source Links and Destination Links.&lt;br&gt;&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;First, a source link is the input point for one or more destination links.&lt;br&gt;&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;A destination link is the output that will reflect changes made to the corresponding source link.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="66Q3CUYUWJY.6qKQziQzsrU" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;After completing this getting started lesson, you will be able to:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#000000'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Link data from a workbook to a table cell in a document&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#000000'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Link data from a workbook to a presentation&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#000000'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Create in-text links&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;And&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Format links&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.61CDPqRehBd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;To create a destination link from a table or workbook cell:&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;click to select the cell, or span of cells, that you would like to serve as the source&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;right-click and select copy&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;select the cell where you would like the destination link to appear&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;right-click and select paste.&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;click on the clipboard icon that appears and select the radio button for Create Links From&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;you can mark the box labeled Default for future pastes&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;then, click the apply button to finish creating the source and destination link&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Additional Create Link options in the clipboard include creating links from:&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Only Cells With Values&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;All Cells&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Only Cells with Links&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.67Do3JXHXZD" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#000000'&gt;For this activity you are going to link the value, 6.6%, from cell (I15) in the Workbook to cell (H11) in the Annual Report document. Then you will use the clipboard to set your linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6WJ0PL1anDp" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Ok, now you try it.  Within the Workbook, click to select cell I15.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6baZXyU0XkY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;With cell I15 selected, right-click within the cell to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.5YRTotiicOS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Copy from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6pVDDY1w6R9" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the Annual Report document, click within cell H11.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;This will activate the document and select the cell.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6ARNRcuTMQw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click within cell H11 to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6IXoMlRzJ0V" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Paste from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6Fia9NIWkol" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the clipboard to select your linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.5VCvL8Eq2MS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="11">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select the Create Links From radio button.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.5hQtzUzKGBC" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="12">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;You do have the option to carry over formatting from the table cell of the source link. For now, uncheck Apply Formatting.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.5xSdoLdbB83" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="13">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Remember that you have the ability to save your link settings during your current working session. Check the box next to Set Default.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6bmdCoByCKd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="14">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the Apply button to complete the linking process.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.6moJiXtoUqx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="15">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Notice that within the cell there is a green triangle with an orange underline in the upper left corner. Within the cell containing the source link there is a blue triangle with an orange underline. The orange underline lets you know that you need to share your changes.  Click the Share button to share your changes.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6U9paRDJQxa.5ZU6EvkY5cs" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The Share Document Changes window opens letting you know that you are about to share changes to the following document: Click the Share button to finish sharing your changes.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6RKsqUaspVl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="17">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Data may also be linked between a workbook and a Presentation type document. For this exercise you will link the value from cell I-11 in the Workbook to the blue circle in the presentation.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Here we right-click on the 5.2% in cell I-11 and select Copy from the list of menu options then click the document tab to activate the Presentation.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the blue circle we place the cursor, right-click and select Paste.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the yellow clipboard to set your linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Make sure that Create Links is selected then click Apply.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.5YjoDeb0chV" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="18">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Now its your turn. For this activity you will take the source link from the workbook, that you created previously, and link it to the 6.6% in the dark gray circle.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the Workbook, click to activate cell I15.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6FmwNT88sW1" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="19">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;With cell I15 activated, right-click to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.5mQl0W5Kn1x" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Copy from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6RL2KFYPGfZ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="20">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the Monthly Financial Overview tab to activate the presentation document.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6U59IbYjrwr" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="21">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the dark gray circle, Double-click to select the 6.6%&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.5W3zKfvPBQz" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="22">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click on 6.6% to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.64o66evuCMi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Paste from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6FYW6RGb7sR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="23">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the yellow clipboard, within the dark gray circle to open a menu of linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6RF5jzQVntI" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="24">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Verify that Create Links is selected then click the green Apply button.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.675R6ewhDjP" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="25">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Now you will link the same value, 6.6%, from the workbook  to another location within the presentation document. Within the Workbook, click to select cell I15.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6kcLYbySL1l" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="26">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click the selected cell to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6GnEBoyShja" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Copy from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6dI9mN3n63F" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="27">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Activate the Monthly Financial Overview Presentation by clicking the document tab.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.5puIghVRHzi" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="28">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Activate the table by clicking anywhere within its boundaries.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6OxNodAYRoX" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="29">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click to select the cell connecting the last column, % Increase (Decrease) to row 13.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6ak72eyLKyS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="30">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click within the selected cell to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6KgnElPT93f" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="31">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Paste.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6JOsyMosXzr" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="32">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the yellow clipboard to open a menu of linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5v9bfRJZJQt.6cg4IEKiW5O" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="33">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Verify that “Create Links From” is selected then click ‘Apply’.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5wYLQut3ZnJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="34">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;To create a source link in document text:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;select the text that you want to serve as a source link&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;right-click and select Create Source Link&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;a visual cue will appear to indicate that the link has been created&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;To create a destination links from a source link in text:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click on the source link to select it&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click and select Copy&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Position your cursor where you would like to create the destination link - as either text in a document or in a table or workbook cell&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click, and select paste&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;A visual cue will appear to indicate that the destination link has been created&lt;br&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5YGmxy2sdsY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="35">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;For this activity you are going to create an In-Text link from workbook cell I15 to the Operating Income section of the Annual Report. You will then use the yellow clipboard to set your linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5liHuQj8lgR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="36">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Now you give it a try. Within the Workbook, click to select cell I15.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.69sQpZfsC9A" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="37">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click within cell I15 to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.6h4k4V0SNq8" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Copy from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5m79MHp24qY" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="38">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the document tab to activate the Annual Report document.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5uZkk3QsKUd" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="39">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the “Operating Income” section, ‘double-click to select 6 percent.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5z9quP26m2G" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="40">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.6VKLfROuS89" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="41">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select ‘Paste’ from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.5XLfyj5LROe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="42">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click the yellow clipboard to select your linking options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="6plD3ISKBDv.6OcYWRwrGTt" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="43">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Be sure that Create Links is selected then click the Apply button.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.5dCBGkQx7Dl" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="44">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;You can specify how you would like source and destination links to be displayed in Wdesk by modifying the link format.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;To change how linked values are displayed:&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;click a link to select it&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;right-click, and select &amp;quot;Format Link&amp;quot;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;use the drop-down menu to select from a list of formatting options&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;a preview of the selected format will display at the top of the dialog box&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 9px'&gt;&lt;textformat leading='0' tabstops='[0, 9, 48, 96, 144]'&gt;&lt;font face='Arial' size='12.5pt' style="font-size:12.5pt;display: inline-block; text-align:left; min-width: 9px; margin-left: -9px;" color='#444444'&gt;•&lt;/font&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;click “Apply Formatting” to confirm your changes&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6eoKC9tPRyf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="45">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;For this activity you are going to format an in-text link so that the value of the destination link displays according to your formatting options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.5eYeFPh9up6" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="46">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Now you do it. In the last activity you linked the 6.6% from the workbook to the operating income section of the Annual report. Click to highlight the 6.6%.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.5cu6Wq8EJQF" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="47">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Right-click the selected value to display a list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6e3OkTO0wLg" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="48">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Select Format Link from the list of menu options.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6pdH0kSXoLk" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="49">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the Format Link window click to open the category drop-down menu.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.5VkaOutz2oS" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="50">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Within the Category dropdown menu select Text&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6f8wJJEB0Nq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="51">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;Click Apply Formatting to apply your formatting changes.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6S9Q1I8FnPc" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="52">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The linked value now displays as 0.066 percent. Click the Share button to share your changes.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5sebNQFrKtT.6Z7RMxMMu4j" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="16">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: ltr; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate' size='12.5pt' style="font-size:12.5pt;" color='#444444'&gt;The Share Document Changes window opens letting you know that you are about to share changes to the following document: Click the Share button to finish sharing your changes.&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data />
+</bwFrame>
